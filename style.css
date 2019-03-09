@@ -1,0 +1,28 @@
+li{
+    margin-left: 30px;
+    margin-top: -3px;
+}
+
+#lateral{
+    background-color: grey;
+    padding-bottom: 100%;
+}
+
+p{
+    font-size: 15px;
+}
+
+#tabla{
+    margin-top: 15px;
+}
+
+.card{
+    margin: auto;
+    margin-bottom: 15px;
+    
+}
+
+h5{
+    text-align: center;
+    margin-top: 5px;
+}
